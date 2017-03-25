@@ -1,5 +1,9 @@
 # ECM encode utility for Node.js
 
+[![travis build](https://img.shields.io/travis/jbdemonte/node-ecm.svg)](https://travis-ci.org/jbdemonte/node-ecm)
+[![Coverage Status](https://coveralls.io/repos/github/jbdemonte/node-ecm/badge.svg?branch=master)](https://coveralls.io/github/jbdemonte/node-ecm?branch=master)
+[![NPM Version](https://img.shields.io/npm/v/node-ecm.svg)](https://www.npmjs.com/package/node-ecm)
+
 This project is a port of the ECM encode utility from [ECM](https://github.com/kidoz/ecm).
 
 ## Installation
